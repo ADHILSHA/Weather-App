@@ -5,7 +5,7 @@ body{
 #maincontainer{
   position: absolute;
   top:10%;
-  width:90%;
+  width:80%;
   left: 10%;
 }
 .title{
@@ -13,7 +13,7 @@ body{
 }
 .form-control{
   width:20%;
-  margin: 1%;
+  margin: 2%;
 }
 .btn-primary{
   margin-left: 1%;
